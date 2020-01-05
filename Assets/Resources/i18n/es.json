@@ -1,0 +1,64 @@
+{
+    "items":[
+        {
+            "key" : "soundon",
+            "value" : "sonido encendido"
+        },
+        {
+            "key" : "soundoff",
+            "value" : "sonido apagado"
+        },
+        {
+            "key" : "musicon",
+            "value" : "música encendida"
+        },
+        {
+            "key" : "musicoff",
+            "value" : "música fuera"
+        },
+        {
+            "key" : "options",
+            "value" : "opciones"
+        },
+        {
+            "key" : "about",
+            "value" : "acerca de"
+        },
+        {
+            "key" : "play",
+            "value" : "jugar"
+        },
+        {
+            "key" : "gameon",
+            "value" : "juego en"
+        },
+        {
+            "key" : "round",
+            "value" : "Ronda"
+        },
+        {
+            "key" : "combo",
+            "value" : "combo"
+        },
+        {
+            "key" : "quit",
+            "value" : "abandonar"
+        },
+        {
+            "key" : "yes",
+            "value" : "sí"
+        },
+        {
+            "key" : "no",
+            "value" : "no"
+        },
+        {
+            "key" : "howPlay",
+            "value" : "cómo jugar"
+        },
+        {
+            "key" : "rules",
+            "value" : "reglas"
+        }
+    ]
+}

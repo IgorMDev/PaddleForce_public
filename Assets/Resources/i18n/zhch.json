@@ -1,0 +1,64 @@
+{
+    "items":[
+        {
+            "key" : "soundon",
+            "value" : "声音"
+        },
+        {
+            "key" : "soundoff",
+            "value" : "发声"
+        },
+        {
+            "key" : "musicon",
+            "value" : "放音乐"
+        },
+        {
+            "key" : "musicoff",
+            "value" : "音乐关闭"
+        },
+        {
+            "key" : "options",
+            "value" : "选项"
+        },
+        {
+            "key" : "about",
+            "value" : "关于"
+        },
+        {
+            "key" : "play",
+            "value" : "玩"
+        },
+        {
+            "key" : "gameon",
+            "value" : "游戏开始"
+        },
+        {
+            "key" : "round",
+            "value" : "回合"
+        },
+        {
+            "key" : "combo",
+            "value" : "combo"
+        },
+        {
+            "key" : "quit",
+            "value" : "放弃"
+        },
+        {
+            "key" : "yes",
+            "value" : "是"
+        },
+        {
+            "key" : "no",
+            "value" : "没有"
+        },
+        {
+            "key" : "howPlay",
+            "value" : "怎么玩"
+        },
+        {
+            "key" : "rules",
+            "value" : "规则"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "items":[
+        {
+            "key" : "soundon",
+            "value" : "Ton an"
+        },
+        {
+            "key" : "soundoff",
+            "value" : "Ton aus"
+        },
+        {
+            "key" : "musicon",
+            "value" : "Musik an"
+        },
+        {
+            "key" : "musicoff",
+            "value" : "Musik aus"
+        },
+        {
+            "key" : "options",
+            "value" : "Optionen"
+        },
+        {
+            "key" : "about",
+            "value" : "über"
+        },
+        {
+            "key" : "play",
+            "value" : "Spielen"
+        },
+        {
+            "key" : "gameon",
+            "value" : "Spiel weiter"
+        },
+        {
+            "key" : "round",
+            "value" : "Runde"
+        },
+        {
+            "key" : "combo",
+            "value" : "combo"
+        },
+        {
+            "key" : "quit",
+            "value" : "Verlassen"
+        },
+        {
+            "key" : "yes",
+            "value" : "Ja"
+        },
+        {
+            "key" : "no",
+            "value" : "Nein"
+        },
+        {
+            "key" : "howPlay",
+            "value" : "Spielanleitung"
+        },
+        {
+            "key" : "rules",
+            "value" : "Regeln"
+        }
+    ]
+}

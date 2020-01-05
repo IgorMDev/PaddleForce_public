@@ -1,0 +1,64 @@
+{
+    "items":[
+        {
+            "key" : "soundon",
+            "value" : "son sur"
+        },
+        {
+            "key" : "soundoff",
+            "value" : "sonner"
+        },
+        {
+            "key" : "musicon",
+            "value" : "musique allumée"
+        },
+        {
+            "key" : "musicoff",
+            "value" : "musique éteinte"
+        },
+        {
+            "key" : "options",
+            "value" : "options"
+        },
+        {
+            "key" : "about",
+            "value" : "sur"
+        },
+        {
+            "key" : "play",
+            "value" : "jouer"
+        },
+        {
+            "key" : "gameon",
+            "value" : "jeu sur"
+        },
+        {
+            "key" : "round",
+            "value" : "tour"
+        },
+        {
+            "key" : "combo",
+            "value" : "combo"
+        },
+        {
+            "key" : "quit",
+            "value" : "quitter"
+        },
+        {
+            "key" : "yes",
+            "value" : "Oui"
+        },
+        {
+            "key" : "no",
+            "value" : "non"
+        },
+        {
+            "key" : "howPlay",
+            "value" : "comment jouer"
+        },
+        {
+            "key" : "rules",
+            "value" : "règlement"
+        }
+    ]
+}

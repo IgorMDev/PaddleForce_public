@@ -1,0 +1,44 @@
+{
+    "items":[
+        {
+            "key" : "soundon",
+            "value" : "الصوت مفعل"
+        },
+        {
+            "key" : "soundoff",
+            "value" : "الصوت مقفل"
+        },
+        {
+            "key" : "musicon",
+            "value" : "تشغيل الموسيقى"
+        },
+        {
+            "key" : "musicoff",
+            "value" : "اطفئ الموسيقى"
+        },
+        {
+            "key" : "options",
+            "value" : "خيارات"
+        },
+        {
+            "key" : "about",
+            "value" : "حول"
+        },
+        {
+            "key" : "play",
+            "value" : "لعب"
+        },
+        {
+            "key" : "gameon",
+            "value" : "لعبة على"
+        },
+        {
+            "key" : "round",
+            "value" : "جولة"
+        },
+        {
+            "key" : "combo",
+            "value" : "السرد"
+        }
+    ]
+}
